@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Sistema Comida/1.0.0": {
+        "runtime": {
+          "Sistema Comida.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Sistema Comida/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
